@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 13e53d59-62a5-76e0-1cce-47eaad0b8642
 resourcetype: Document
 title: treeheight.pdf
 uid: 6ee45831-e800-c976-e79d-6c359e2ed3d0

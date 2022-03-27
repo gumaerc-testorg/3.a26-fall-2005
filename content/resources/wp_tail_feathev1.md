@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 13e53d59-62a5-76e0-1cce-47eaad0b8642
 resourcetype: Document
 title: wp_tail_feathev1.pdf
 uid: 47a38375-03f2-449d-b79f-7d54ec71e171

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 13e53d59-62a5-76e0-1cce-47eaad0b8642
 resourcetype: Document
 title: poster3big.pdf
 uid: 5569cf8e-f3c7-f095-1041-aa8f834d91dd

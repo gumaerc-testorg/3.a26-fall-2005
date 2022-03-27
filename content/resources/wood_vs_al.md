@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 13e53d59-62a5-76e0-1cce-47eaad0b8642
 resourcetype: Document
 title: wood_vs_al.pdf
 uid: b30482f2-8b90-fcbc-cd49-60fb1dd28efb
