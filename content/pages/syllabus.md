@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains information about course overview, references,
+  course history and acknowledgments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

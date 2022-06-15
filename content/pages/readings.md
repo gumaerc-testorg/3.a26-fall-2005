@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The reading section contains reference books, 3 handouts, and other background
+  readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -19,11 +21,11 @@ Background Readings: From The Engineering of Trees (2003)
 
 Students interested in the topics of trees, plants and musical instruments may consult the following readings:
 
-Engineering of Trees: Handout 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/handout1))
+Engineering of Trees: Handout 1 ({{% resource_link 3641ddd1-5136-8d68-7363-5299fb01fdbd "PDF" %}})
 
-Engineering of Trees: Handout 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/handout2))
+Engineering of Trees: Handout 2 ({{% resource_link 216accd9-9f65-4ec0-456d-ac098a0ac767 "PDF" %}})
 
-Engineering of Trees: Handout 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/handout3))
+Engineering of Trees: Handout 3 ({{% resource_link 1741d6ef-e0d6-14e6-d6da-3638a06bfeb6 "PDF" %}})
 
 Easterling, K. E., R. Harrysson, L. J. Gibson, and M. F. Ashby, F. R. S. "On the Mechanics of Balsa and Other Woods." _Proceedings of the Royal Society London_ A383 (1982): 31-41.
 
