@@ -6,6 +6,7 @@ file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/b42667
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tube.pdf
 uid: b426673a-21ce-4603-ccdd-22878daf034f
 ---
 This resource discusses foam core structure of tubes and cylindrical shells.
-

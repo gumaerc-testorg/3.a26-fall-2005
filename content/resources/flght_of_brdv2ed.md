@@ -6,6 +6,7 @@ file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/238cf5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: flght_of_brdv2ed.pdf
 uid: 238cf5d8-509b-40b0-e79b-5a8bccd4af3d
 ---
 This resource discusses the mechanism of flight, how is lift generated, and what factors affect lift.
-

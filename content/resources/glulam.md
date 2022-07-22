@@ -5,6 +5,7 @@ file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/ec82f1
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: glulam.pdf
 uid: ec82f197-bb37-b492-e517-bca95aafb527
 ---
 This resource discusses the mechanics and advantages of glulam wood.
-

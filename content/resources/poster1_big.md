@@ -6,6 +6,7 @@ file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/0aa79a
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: poster1_big.pdf
 uid: 0aa79a86-1abb-ff70-d97d-761be9489a7e
 ---
 This resource discusses remaining part of the mechanics behind the glue laminated (glulam) wood.
-

@@ -7,6 +7,7 @@ file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/f1a945
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: bird_stcknstv2ed.pdf
 uid: f1a945a6-f97a-4560-2c85-fe5d53e7e795
 ---
 This resource discusses the shape and materials of bird's nest with the help of examples like white-tailed Kite, eastern Kingbird, black-billed Cuckoo, and green Heron.
-

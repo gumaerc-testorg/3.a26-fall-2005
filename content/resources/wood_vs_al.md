@@ -6,6 +6,7 @@ file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/b30482
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: wood_vs_al.pdf
 uid: b30482f2-8b90-fcbc-cd49-60fb1dd28efb
 ---
 This resource discusses calculating deflection, comparing pine and aluminum beams, and why use aluminum.
-
