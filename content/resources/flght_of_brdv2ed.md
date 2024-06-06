@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses the mechanism of flight, how is lift generated,
   and what factors affect lift.
 file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/238cf5d8509b40b0e79b5a8bccd4af3d_flght_of_brdv2ed.pdf
+file_size: 702143
 file_type: application/pdf
 learning_resource_types:
 - Projects
