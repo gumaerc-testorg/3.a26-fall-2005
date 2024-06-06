@@ -6,6 +6,7 @@ description: This resource contains list of topics like, hierarchical structures
   and engineering materials, sandwich beams, bird bones, model materials, and fish
   swimming that were dicussed during this brainstrom session.
 file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/8f4f0686adede63d315db209dce12bd4_brainstorming.pdf
+file_size: 23328
 file_type: application/pdf
 learning_resource_types:
 - Projects
