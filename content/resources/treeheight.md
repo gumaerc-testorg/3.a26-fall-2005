@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses how tall can a tree grow with the help of column
   buckling.
 file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/6ee45831e800c976e79d6c359e2ed3d0_treeheight.pdf
+file_size: 267853
 file_type: application/pdf
 learning_resource_types:
 - Projects
