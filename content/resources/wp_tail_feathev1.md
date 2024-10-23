@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses woodpeckers tail feathers, what makes them special,
   feather structure, types of feathers, Rachis cross- section, and moment of inertia.
-file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/47a3837503f2449db79f7d54ec71e171_wp_tail_feathev1.pdf
+file: /ol-ocw-studio-app/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/47a3837503f2449db79f7d54ec71e171_wp_tail_feathev1.pdf
 file_size: 1123850
 file_type: application/pdf
 learning_resource_types:
