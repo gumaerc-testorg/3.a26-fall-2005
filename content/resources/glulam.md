@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses the mechanics and advantages of glulam wood.
-file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/ec82f197bb37b492e517bca95aafb527_glulam.pdf
+file: /ol-ocw-studio-app/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/ec82f197bb37b492e517bca95aafb527_glulam.pdf
 file_size: 96909
 file_type: application/pdf
 learning_resource_types:
