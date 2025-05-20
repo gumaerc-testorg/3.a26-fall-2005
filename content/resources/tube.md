@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses foam core structure of tubes and cylindrical
   shells.
-file: /ol-ocw-studio-app/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/b426673a21ce4603ccdd22878daf034f_tube.pdf
+file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/b426673a21ce4603ccdd22878daf034f_tube.pdf
 file_size: 158081
 file_type: application/pdf
 learning_resource_types:

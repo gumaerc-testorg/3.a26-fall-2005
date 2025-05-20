@@ -5,7 +5,7 @@ description: This resource contains list of topics like, hierarchical structures
   growth in response to loading, shape optimization, compare performance of natural
   and engineering materials, sandwich beams, bird bones, model materials, and fish
   swimming that were dicussed during this brainstrom session.
-file: /ol-ocw-studio-app/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/8f4f0686adede63d315db209dce12bd4_brainstorming.pdf
+file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/8f4f0686adede63d315db209dce12bd4_brainstorming.pdf
 file_size: 23328
 file_type: application/pdf
 learning_resource_types:
