@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses remaining part of the mechanics behind the glue
   laminated (glulam) wood.
-file: /ol-ocw-studio-app/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/0aa79a861abbff70d97d761be9489a7e_poster1_big.pdf
+file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/0aa79a861abbff70d97d761be9489a7e_poster1_big.pdf
 file_size: 437782
 file_type: application/pdf
 learning_resource_types:
