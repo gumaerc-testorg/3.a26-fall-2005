@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses why woodpecker do not get brain injury from pecking
   by  scaling factors for woodpecker.
-file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/f6b0b88d393f58910d01116c295565c6_peckingv2edit.pdf
+file: /ol-ocw-studio-app/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/f6b0b88d393f58910d01116c295565c6_peckingv2edit.pdf
 file_size: 187712
 file_type: application/pdf
 learning_resource_types:
