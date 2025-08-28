@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses dimensional argument and buckling argument as
   the factors for the tree height.
-file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/1741d6efe0d614e6d6da3638a06bfeb6_handout3.pdf
+file: /ol-ocw-studio-app/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/1741d6efe0d614e6d6da3638a06bfeb6_handout3.pdf
 file_size: 67125
 file_type: application/pdf
 learning_resource_types:

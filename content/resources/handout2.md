@@ -3,7 +3,7 @@ content_type: resource
 description: This resource discusses the stress and strain with the help of Hooke's
   law and Young's Modulus, and section geometry to understand beam bending and column
   buckling.
-file: /courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/216accd99f654ec0456dac098a0ac767_handout2.pdf
+file: /ol-ocw-studio-app/courses/3-a26-freshman-seminar-the-nature-of-engineering-fall-2005/216accd99f654ec0456dac098a0ac767_handout2.pdf
 file_size: 121161
 file_type: application/pdf
 learning_resource_types:
