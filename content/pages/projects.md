@@ -41,7 +41,7 @@ The posters, slides and demonstrations below were made as part of a service lear
     *   Woodpecker Pecking ({{% resource_link f6b0b88d-393f-5891-0d01-116c295565c6 "PDF" %}})
     *   Bird's Stick Nest: Structural and Material Analysis ({{% resource_link f1a945a6-f97a-4560-2c85-fe5d53e7e795 "PDF - 1.6 MB" %}})
 *   Prof. Gibson's video demonstrations
-    *   Lift of a ping pong ball in a tube ([MP4 - 3 MB](http://www.archive.org/download/MIT3.A24F04/ocw-3.A24-gibson-demo-220k.mp4))
+    *   Lift of a ping pong ball in a tube ({{% resource_link "9bad6bf3-2693-40d4-a35e-56981e7799f7" "MP4 - 3 MB" %}})
 
 ### The Engineering of Trees (2003)
 
@@ -54,9 +54,9 @@ In 2003, we studied the mechanical principles behind trees, wood, and wood produ
     *   How High Can A Tree Grow? ({{% resource_link 5569cf8e-f3c7-f095-1041-aa8f834d91dd "PDF - 1.0 MB" %}})
     *   The Mechanics of Glue Laminated Wood: Version 1 ({{% resource_link 62882a2a-3724-b098-9281-2282be513458 "PDF" %}}); Version 2 ({{% resource_link 0aa79a86-1abb-ff70-d97d-761be9489a7e "PDF" %}})
 *   Prof. Gibson's video demonstrations
-    *   How Tall Can A Tree Grow? ([MP4 - 9 MB](http://www.archive.org/download/MIT3.A24F04/ocw-3.A24_one-220k.mp4))
-    *   Glue-Laminated Wood ([MP4 - 6 MB](http://www.archive.org/download/MIT3.A24F04/ocw-3.A24_two-220k.mp4))
-    *   Microstructures of Wood ([MP4 - 4 MB](http://www.archive.org/download/MIT3.A24F04/ocw-3.A24_three-220k.mp4))
+    *   How Tall Can A Tree Grow? ({{% resource_link "50b60cc6-dc03-4cb4-ab78-69a6ec1ff3d6" "MP4 - 9 MB" %}})
+    *   Glue-Laminated Wood ({{% resource_link "03310632-b404-4efb-9ae7-124e55abed00" "MP4 - 6 MB" %}})
+    *   Microstructures of Wood ({{% resource_link "d43bc702-79bf-487f-a60e-4a3ac67ddbdb" "MP4 - 4 MB" %}})
 
 ### Structures in Nature and Biomimetic Engineering (2002)
 
