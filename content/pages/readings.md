@@ -35,7 +35,7 @@ Gibson, L. J., M. F. Ashby, G. N. Karam, U. Wegst, and H. R. Shercliff. "The Mec
 
 Gibson, L. J., K. E. Easterling, and M. F. Ashby, F. R. S. "The Structure and Mechanics of Cork." _Proceedings of the Royal Society London_ A377 (1981): 99-117.
 
-Gibson, Lorna J., and Michael F. Ashby. _[Cellular Solids: Structure and Properties](http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=0521499119)_. 2nd ed. New York: Cambridge University Press, 1999, pp. 101-103, 148, 399. ISBN: 9780521499118.
+Gibson, Lorna J., and Michael F. Ashby. _{{% resource_link "e6ead5a6-45d6-42f2-959e-f7b3c6e91c13" "Cellular Solids: Structure and Properties" %}}_. 2nd ed. New York: Cambridge University Press, 1999, pp. 101-103, 148, 399. ISBN: 9780521499118.
 
 Niklas, Karl J. "How to build a Tree." _Natural History_ 2 (1996): 48-52.
 
