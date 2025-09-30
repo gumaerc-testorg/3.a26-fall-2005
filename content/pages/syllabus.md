@@ -32,7 +32,7 @@ References
 
 Benyus, J. _Biomimicry: Innovation Inspired by Nature_. New York, NY: HarperTrade, 2002. ISBN: 9780060533229.
 
-Suzuki, David. "[Biomimicry: Learning from Nature (Part 1 and 2)](http://www.bullfrogfilms.com/catalog/bmic2.html)." _The Nature of Things_. Two 45-minute videos from the CBC television series.
+Suzuki, David. "{{% resource_link "e491021e-78d8-4dc9-9de6-17b7d3b951e7" "Biomimicry: Learning from Nature (Part 1 and 2)" %}}." _The Nature of Things_. Two 45-minute videos from the CBC television series.
 
 Course History
 --------------
